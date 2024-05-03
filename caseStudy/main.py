@@ -27,7 +27,7 @@ def main():
         print("8. Create Applicant Profile")
         print("9. Apply for a Job")
         print("10. Exit")
-
+        print('\n')
         choice = input("Enter your choice: ")
         print("\n")
         print('--------------------------------------------------------------------------')
